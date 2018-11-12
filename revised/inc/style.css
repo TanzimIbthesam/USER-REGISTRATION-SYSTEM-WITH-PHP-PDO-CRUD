@@ -1,0 +1,9 @@
+.nav-menu{
+    background-color: #565656;
+}
+.nav-link{
+    color:white!important;
+    text-transform: uppercase;
+    font-family:Arial;
+    font-weight:bold;
+}
